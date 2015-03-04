@@ -7,6 +7,7 @@ Resources for the language Bislama.
 * [Liahona magazine in Bislama](https://www.lds.org/liahona/2014?lang=bis).  
   Liahona is a monthly religious magazine published by the Latter Day Saints. Many issues (but not all of them)
   are translated into lots of underresourced languages.
+* [Vanuatu Daily Post](http://www.dailypost.vu/), mostly in English but has some short articles in Bislama
 
 ## Corpora
 
@@ -21,5 +22,6 @@ I couldn't find any compiled corpora, but here are some sources to get you start
 
 * [Bislama spelling dictionary](http://www.bislama.org/bislama-dictionary),  
   available for MS Word and Firefox (6500 words)
-* the same [spelling dictionary](http://www.bislama.org/images/dictionary/BislamaSpellingDictionary-v1.1.pdf) as a list  
-  in PDF format with coarse-grained POS tags and English translations for each word (both licensed under GPLv2)
+* the same [spelling dictionary](http://www.bislama.org/images/dictionary/BislamaSpellingDictionary-v1.1.pdf) as a list   in PDF format with coarse-grained POS tags and English translations for each word (both licensed under GPLv2)
+* [Bislama word frequency lists](http://crubadan.org/ws/bi.html) (unigrams, bigrams and character trigrams)  
+  from the [An Crúbadán](http://crubadan.org/index.html) project
