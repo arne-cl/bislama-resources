@@ -1,6 +1,7 @@
 # bislama-resources
 
-Resources for the language Bislama.
+Resources for the language Bislama (Bichelamar), an English-based creole,
+which is one of the official languages of Vanuatu.
 
 ## Media
 
@@ -13,7 +14,11 @@ Resources for the language Bislama.
 
 I couldn't find any compiled corpora, but here are some sources to get you started:
 
+* [The bible in Bislama](http://www.bible.is/BISBSP/Matt/1)
+* [Jehovah’s Witnesses website in Bislama](http://www.jw.org/bi)
+* [Tweets in Bislama](http://indigenoustweets.com/bi/) and [blog posts in Bislama](http://indigenoustweets.com/blogs/bi/) from [Indigenous Tweets](http://indigenoustweets.com/)
 * [Primary texts in Bislama](http://www.language-archives.org/language/bis), compiled by the [Open Language Archives Community](http://www.language-archives.org)
+* [Universal Declaration of Human Rights in Bislama](http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=bcy)
 * [Wikipedia in Bislama](http://bi.wikipedia.org/wiki/Wikipedia), 480+ articles
 * [Speech recordings in Bislama](http://lacito.vjf.cnrs.fr/pangloss/tools/list_rsc_en.php?lg=Bislama&aff=bislama) from the [Pangloss Collection](http://lacito.vjf.cnrs.fr/pangloss/index_en.htm)
 
